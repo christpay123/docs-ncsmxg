@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-3hvtji.shadowdiary.com/sitemap.xml
